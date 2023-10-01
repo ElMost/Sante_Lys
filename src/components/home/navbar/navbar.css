@@ -1,0 +1,17 @@
+.container-tel {
+  width: 25%;
+}
+.num {
+  color: #49a29c;
+  margin: auto !important;
+}
+
+.container-caroussel {
+  height: 60vh;
+  background-color: red;
+}
+.navbar {
+  background-image: linear-gradient(to right, #cef6f3, #c2d4d0);
+    height: 10vh;
+    
+}
