@@ -1,0 +1,32 @@
+.Carousel-Item {
+  width: 1000px;
+  height: 500px;
+  background-color: #49a29c;
+  margin: auto;
+}
+
+.caroussel-img-1 {
+  width: 100%;
+  height: 50vh;
+  background-image: url("../../utils/img/aide.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.caroussel-img-2 {
+  width: 100%;
+  height: 50vh;
+  background-image: url("../../utils/img/aide-a-domicile.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.caroussel-img-3 {
+  width: 100%;
+  height: 50vh;
+  background-image: url("../../utils/img/aide-a-domicile.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

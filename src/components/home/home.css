@@ -1,0 +1,25 @@
+.btn-home {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.custom-shape-divider-top-1696706824 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1696706824 svg {
+  position: relative;
+  display: block;
+  width: calc(209% + 1.3px);
+  height: 100vh;
+}
+
+.custom-shape-divider-top-1696706824 .shape-fill {
+  fill: #9013fe;
+}

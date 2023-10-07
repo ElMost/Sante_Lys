@@ -1,0 +1,21 @@
+.container-tel {
+  width: 25%;
+}
+.num {
+  color: #fff;
+  margin: auto !important;
+}
+
+.container-caroussel {
+  height: 60vh;
+  background-color: red;
+}
+.navbar {
+  background-color: transparent !important;
+
+  z-index: 1;
+  height: 10vh;
+}
+#basic-nav-dropdown {
+  color: white !important;
+}
