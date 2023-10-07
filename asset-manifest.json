@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1c93af5.css",
+    "main.js": "/static/js/main.928239f0.js",
+    "static/js/787.8683efe4.chunk.js": "/static/js/787.8683efe4.chunk.js",
+    "static/media/map.jpg": "/static/media/map.765b125a130595f20202.jpg",
+    "static/media/coeur-aide.svg-removebg-preview.png": "/static/media/coeur-aide.svg-removebg-preview.0fa9e3153d328ff2e034.png",
+    "static/media/repas.png": "/static/media/repas.0d499740d08b292a4585.png",
+    "static/media/loisirs.png": "/static/media/loisirs.e80c49dd1c11cd846465.png",
+    "static/media/contact-removebg-preview.png": "/static/media/contact-removebg-preview.90151442a36a38ad0c25.png",
+    "static/media/team.png": "/static/media/team.a35be70a9549a75d4cda.png",
+    "static/media/Volunteer-removebg-preview.png": "/static/media/Volunteer-removebg-preview.1a5ed7c4e24251f2a71b.png",
+    "static/media/logo.png": "/static/media/logo.9c998c31cb804e49012e.png",
+    "index.html": "/index.html",
+    "main.e1c93af5.css.map": "/static/css/main.e1c93af5.css.map",
+    "main.928239f0.js.map": "/static/js/main.928239f0.js.map",
+    "787.8683efe4.chunk.js.map": "/static/js/787.8683efe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1c93af5.css",
+    "static/js/main.928239f0.js"
+  ]
+}
